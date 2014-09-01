@@ -1,0 +1,89 @@
+#content{
+	width: 900px;
+}
+
+#resultat{
+background-color: #a3a3a3;
+border: 1px solid #a3a3a3;
+-moz-border-radius: 4px;
+-webkit-border-radius: 4px;
+border-radius: 4px;
+/*IE 7 AND 8 DO NOT SUPPORT BORDER RADIUS*/
+-moz-box-shadow: 0px 0px 5px 3px #d6d6d6;
+-webkit-box-shadow: 0px 0px 5px 3px #d6d6d6;
+box-shadow: 0px 0px 5px 3px #d6d6d6;
+/*IE 7 AND 8 DO NOT SUPPORT BLUR PROPERTY OF SHADOWS*/
+/*IE 7 AND 8 DO NOT SUPPORT SPREAD PROPERTY OF SHADOWS*/
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr = '#dbdbdb', endColorstr = '#ffffff');
+/*INNER ELEMENTS MUST NOT BREAK THIS ELEMENTS BOUNDARIES*/
+/*Element must have a height (not auto)*/
+/*All filters must be placed together*/
+-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr = '#dbdbdb', endColorstr = '#ffffff')";
+/*Element must have a height (not auto)*/
+/*All filters must be placed together*/
+background-image: -moz-radial-gradient(top, #dbdbdb, #ffffff);
+background-image: -ms-radial-gradient(top, #dbdbdb, #ffffff);
+background-image: -o-radial-gradient(top, #dbdbdb, #ffffff);
+background-image: -webkit-gradient(radial, center top, center bottom, from(#dbdbdb), to(#ffffff));
+background-image: -webkit-radial-gradient(top, #dbdbdb, #ffffff);
+background-image: radial-gradient(top, #dbdbdb, #ffffff);
+-moz-background-clip: padding;
+-webkit-background-clip: padding-box;
+background-clip: padding-box;
+/*Use "background-clip: padding-box" when using rounded corners to avoid the gradient bleeding through the corners*/
+/*--IE9 WILL PLACE THE FILTER ON TOP OF THE ROUNDED CORNERS--*/
+opacity: 0.95;
+-ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity = 95);
+/*-ms-filter must come before filter*/
+filter: alpha(opacity = 95);
+/*INNER ELEMENTS MUST NOT BREAK THIS ELEMENTS BOUNDARIES*/
+/*All filters must be placed together*/
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-right: 40px;
+	padding-left: 40px;
+	width: 500px;
+	text-align:center;
+}
+
+h3{
+	margin-left:100px;
+}
+#liste_table_import{
+	border:2px solid black;
+	padding: 30px;
+	padding-bottom: 40px;
+}
+#export{
+	border:2px solid black;
+	padding: 30px;
+	margin-bottom: 20px;
+	padding-bottom: 20px;
+}
+#menu_p_config{
+	margin-top: 40px;
+}
+
+.helper{
+	margin-top: 1000px;
+}
+
+#listeInsertion{
+	margin-left: 80px;
+}
+
+#importCSV{
+	padding-left: 0px;
+}
+
+.checkbox{
+	margin-left: 40px;
+}
+
+#buttonHelp{
+	margin-left: 200px;
+}
+
+hr{
+	margin: 0px;
+}

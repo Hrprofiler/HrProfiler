@@ -1,0 +1,24 @@
+﻿
+<head>
+	<link rel="stylesheet" href="import-export.css" />
+	<title>HR-Profiler - Import/Export</title>
+</head>
+<?php
+$bdd = new PDO('mysql:host=mysql51-120.perso; dbname=hrprofil_bdd','hrprofil_bdd','eSkf9fN2hgaB');
+
+//récupération du Type
+	$type = $_POST['type_export_all'];
+	
+//creer verification min 1 table sélectionnée
+//creer verification min 1 bouton (CSV/SQL) coché
+	
+
+	if ($type == 'SQL') {
+				
+				include 'traitement_export_all_sql.php';
+				
+			}
+
+	// echo 'Format d\'export : '.$type.'<br>';
+	
+?>

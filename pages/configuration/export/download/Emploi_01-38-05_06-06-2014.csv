@@ -1,0 +1,21 @@
+id_emploi,lib_emploi,descr_emploi
+7;emploi1;emploi1
+8;emploi2;emploi2
+9;emploi3;emploi3
+10;emploi4;emploi4
+11;emploi5;emploi5
+12;emploi6;emploi6
+13;emploi7;emploi7
+14;emploi8;emploi8
+15;emploi9;emploi9
+16;emploi10;emploi10
+19;Electricien;"Installation et maintenance des installations électrique"
+20;"Secrétaire ";"Gère les dossiers professionels, les appels téléphoniques et l'accueil des visiteurs"
+21;"Gardien de gymnase";"Surveille l'etat des locaux et equipements sportifs"
+22;Mécanicien;"Assure la réparation des véhicules"
+23;Infirmier;"Assure des soins médicaux au patient"
+24;"Ingénieur informatique";"Supervise des projets "
+25;Jardinier;"Entretien les espaces verts"
+26;Agriculteur;"Procède à la culture de végétaux"
+27;Logisticien;"Supervise les flux de marchandises et de personnes"
+28;"Ingenieur Genie Civil";"Supervise le deroulement d'un chantier"

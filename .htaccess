@@ -1,8 +1,0 @@
-
-
-AuthUserFile /homez.644/hrprofil/www/admin_hr_profiler/.htpasswd
-AuthGroupFile /dev/null
-AuthName "Accès Restreint"
-AuthType Basic
-require valid-user
-

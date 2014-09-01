@@ -1,0 +1,5 @@
+id_user,login_user,pass_user,nom_user,prenom_user,mail_user,id_groupe
+10;vmp;c0ffef9b7eef64fc9a6f35324211cf61da7a2415;Pion;Vlad;vmp@hr-profiler.com;3
+11;lolo;a7ca81c17d0ab3e5c2d7dbe755b30aea799d7b1e;M;lolo;lolo@lolilol.fr;0
+12;tony;f8b242668373d6e0bd21738098af6d126c5ad200;C;T;tonytruant@hr-profiler.com;0
+13;test;2f7b56fd6ed8ce2de57cc5117b617391028bab59;test;test;test@test.test;3

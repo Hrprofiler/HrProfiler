@@ -1,0 +1,24 @@
+id,libelle,description,occuper
+51;poste1;poste1;o
+52;poste2;poste2;o
+54;poste4;poste4;1
+55;poste5;poste5;n
+56;poste6;poste6;n
+57;poste7;poste7;n
+59;poste9;poste1;n
+60;poste10;poste10;n
+61;"poste 11";"poste 11";1
+64;"Secrétaire du service comptable";"Gère les données comptables";1
+66;"Contrôleur technique automobile";"Effectue les contrôle techniques";0
+69;"Agent du gardiennage du gymnase municipal";"Controle du bon fonctionnement des equipements sportifs, Effectue des rondes de surveillances";0
+71;"Installateur d'equipement electrique pour les particuliers";"Effectue des operations d'installation et de raccordement electrique chez les particuliers
+
+
+";0
+72;"Chef de projet informatique développement web";"Supervise le déroulement du projet";1
+74;"Conducteur véhicules agricoles";"Conduit et entretien les véhicules agricoles";1
+76;"Technicien d'entretien du parc municipal";"Entretien des pelouse (tonte, arrosage, plantation)";0
+77;"Chef de chantier batiment";"Charge de l'organisation et du deroulement des travaux";1
+78;"Agent de transit de marchanise";"Effectue les demarches administratives concernant l'expediation et la livraison des marchandises";1
+80;Anesthesiste;"Charge d'effectuer l'anesthesie generale ou locale et surveille les signes vitaux du patient";1
+81;aa;aaaa;0

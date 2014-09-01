@@ -1,0 +1,12 @@
+id_poste,libelle,description,occuper
+64;"Secrétaire du service comptable";"Gère les données comptables";1
+66;"Contrôleur technique automobile";"Effectue les contrôle techniques";0
+72;"Chef de projet informatique dev web";"Supervise le déroulement du projet";1
+74;"Conducteur véhicules agricoles";"Conduit et entretien les véhicules agricoles";1
+76;"Technicien d'entretien du parc municipal";"Entretien des pelouse (tonte, arrosage, plantation)";0
+77;"Chef de chantier batiment";"Charge de l'organisation et du deroulement des travaux";1
+82;"Technicien camion";"Entretien des camions";1
+84;"Jardinier du Parc de Lyon";Jardinier;0
+85;"Agent de transit de marchanise";"	Effectue les demarches administratives";0
+86;"Agent du gardiennage du gymnase municipal";"Controle du bon fonctionnement des equipements.";0
+87;Installateur;"Reccorde les installations";0

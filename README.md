@@ -1,4 +1,0 @@
-HrProfiler
-==========
-
-Projet GPEC
